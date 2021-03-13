@@ -28,7 +28,7 @@
 		<li>Curtains are origally from an old college buddies 1972 VW Bus.</li>
 		<li>Upholstery is in great condition.</li>
 		<li>Comes with a loaded toolbox, timing light, and a slew of miscelaneous parts and pieces...</li>
-		<li>I kept very detailed logs of repairs and driving mileage up until Donna went into storage. You can download the spreadsheat <a href="https://volkswagen-forsale-1969.s3-us-west-1.amazonaws.com/prof/Donna+Log.ods" target="_blank" rel="noopener noreferrer"">here</a></li>
+		<li>I kept very detailed logs of repairs and driving mileage up until Donna went into storage. You can download the spreadsheat <a href="https://volkswagen-forsale-1969.s3-us-west-1.amazonaws.com/prof/Donna+Log.ods" target="_blank" rel="noopener noreferrer">here</a></li>
 		<li>And lots lots more!!!</li>
 	</ul>
 
