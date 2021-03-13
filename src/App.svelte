@@ -10,7 +10,7 @@
 
 	<img id="splash" src={sunsetPhoto} alt="Family sunset" >
 	
-	<h3>Asking $15,000.00</h3>
+	<h2>Asking $15,000.00</h2>
 
 	<hr />
 	<div id="bio">
@@ -22,7 +22,7 @@
 	</div>
 	<hr />
 
-	<h2>Features:</h2>
+	<h3>Features:</h3>
 		<p>&#128205; New battery (March 2021).</p>
 		<p>&#128205; Rebuilt brakes (June 2020).</p>
 		<p>&#128205; New rear drum brakes shoes.</p>
