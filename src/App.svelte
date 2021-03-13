@@ -80,6 +80,8 @@
 		
 	<div id='location'>
 		<p>Donna currently resides in the warm and sunny beach city of Oceanside, California</p>
+		<p>To see more photos, check out this Google Photos Album <a href="https://photos.app.goo.gl/K1UwA9PaWYJw2ef97" target="_blank" rel="noopener">here</a>.</p>
+
 	</div>
 
 	<hr />
