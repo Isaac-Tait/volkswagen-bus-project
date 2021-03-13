@@ -2,6 +2,14 @@
 	export let bus;
 	export let name;
 	let sunsetPhoto = '/familyPhotoSunset.jpg'
+	var mapboxgl = require('mapbox-gl/dist/mapbox-gl.js');
+ 
+	mapboxgl.accessToken = 'pk.eyJ1IjoiZ3JhdmVsbnV0IiwiYSI6ImNqcTl4MHR4cDBuNnI0Mm9ndnNid3k5NGEifQ.gqIxAmIZl8SYmqmoOeltQA';
+	var map = new mapboxgl.Map({
+	container: 'location',
+	style: 'mapbox://styles/mapbox/streets-v11'
+	});
+
 </script>
 
 <main>
@@ -12,21 +20,32 @@
 	<h3>Asking $15,000.00</h3>
 
 	<ul>
-		<li>New battery (March 2021)</li>
-		<li>Rebuilt brakes (June 2020)</li>
-		<li>New brakes shoes (rear)</li>
-		<li>All new master cylinder and both brake fluid reservoirs</li>
-		<li>New spring kit installed rear brakes</li>
-		<li>1600cc Dual-port Dual Carb (Baby Webbers)</li>
+		<li>New battery (March 2021).</li>
+		<li>Rebuilt brakes (June 2020).</li>
+		<li>New brakes shoes (rear).</li>
+		<li>All new master cylinder and both brake fluid reservoirs.</li>
+		<li>New spring kit installed rear brakes.</li>
+		<li>1600cc Dual-port Dual Carb (Baby Webbers).</li>
+		<li>Curtains are origally from an old college buddies 1972 VW Bus.</li>
+		<li>Upholstery is in great condition.</li>
+		<li>And lots lots more!!!</li>
 	</ul>
 
+	<div id="payment">
+		<p>Serious inquiries only. Will not consider trades.</p>
+		<p>Prefer payment in Bitcoin. Secondary bank transfer.</p>
+	</div>
+
 	<p>Below are a collection of photos of {name} </p>
-
-	<p>Serious inquiries only. Will not consider trades.</p>
-
-	<p>Prefer payment in Bitcoin. Secondary bank transfer.</p>
-
+	<gallery>
+		<img src="" alt="" />
+		<img src="" alt="" />
+		<img src="" alt="" />
+		<img src="" alt="" />
+	</gallery>
 </main>
+
+<div id='location'></div>
 
 <footer>
 	<div>
@@ -63,6 +82,12 @@
 		border-radius: 50px;
 	}
 
+	ul {
+		text-align: left;
+	}
+	#payment {
+		text-align: right;
+	}
 	footer {
 		background-color: #ff3e00;
 		font-size: 0.75em;
