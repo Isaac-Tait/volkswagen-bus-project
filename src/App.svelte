@@ -1,14 +1,16 @@
 <script>
 	export let bus;
 	export let name;
-	let sunsetPhoto = ' ../photos/familyPhotoSunset.jpg'
+	let sunsetPhoto = '/familyPhotoSunset.jpg'
 </script>
 
 <main>
 	<h1>For Sale: {bus}</h1>
 
-	<img src={sunsetPhoto} alt="Family photo sunset" >
+	<img src={sunsetPhoto} alt="Family sunset" >
 	
+	<h3>Asking $15,000.00</h3>
+
 	<ul>
 		<li>New battery (March 2021)</li>
 		<li>Rebuilt brakes (June 2020)</li>
@@ -17,8 +19,6 @@
 		<li>New spring kit installed rear brakes</li>
 		<li>1600cc Dual-port Dual Carb (Baby Webbers)</li>
 	</ul>
-
-	<h3>Asking $15,000.00</h3>
 
 	<p>Below are a collection of photos of {name} </p>
 
@@ -41,6 +41,7 @@
 		padding: 1em;
 		max-width: 240px;
 		margin: 0 auto;
+		background-image: '/topo.svg';
 	}
 
 	h1 {
@@ -55,6 +56,11 @@
 		text-transform: uppercase;
 		font-size: 3em;
 		font-weight: 100;
+	}
+
+	img {
+		max-width: 750px;
+		border-radius: 50px;
 	}
 
 	footer {
