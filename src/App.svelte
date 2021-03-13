@@ -26,7 +26,7 @@
 		<p>&#128205; New battery (March 2021).</p>
 		<p>&#128205; Rebuilt brakes (June 2020).</p>
 		<p>&#128205; New rear drum brakes shoes.</p>
-		<p>&#128205; All new master cylinder..</p>
+		<p>&#128205; New master cylinder..</p>
 		<p>&#128205; Two new brake fluid reservoirs (one in the cab, the other attached to the master cylinder).</p>
 		<p>&#128205; New spring kit installed on the rear brakes.</p>
 		<p>&#128205; New rear brake calipers</p>
@@ -34,12 +34,13 @@
 		<p>&#128205; Runs strong.</p>
 		<p>&#128205; Lights work but it is time to upgrade the sound system.</p>
 		<p>&#128205; Engine compartment hatch has a lock with VW logo key.</p>
-		<p>&#128205; Comes with a really cool hammock system that installs above the driver and passenger seats. Perfect for storing luggage out of the way at night or even a bed for a small child or two.</p>
+		<p>&#128205; Comes with an ingenious hammock that installs above the driver and passenger seats. Perfect for storing luggage out of the way at night or even a bed for a small child or two.</p>
 		<p>&#128205; 1600cc Dual-port Dual Carb (Baby Webbers).</p>
 		<p>&#128205; Curtains are origally from an old college buddies 1972 VW Bus.</p>
 		<p>&#128205; Upholstery is in great condition.</p>
 		<p>&#128205; Comes with a loaded toolbox, timing light, and a slew of miscelaneous parts and pieces...</p>
 		<p>&#128205; I kept very detailed logs of repairs and driving mileage up until Donna went into storage. You can download the spreadsheat <a href="https://volkswagen-forsale-1969.s3-us-west-1.amazonaws.com/prof/Donna+Log.ods" target="_blank" rel="noopener noreferrer">here</a>.</p>
+		<p>&#128205; Currently I drive her once or twice a week around the neighborhood to visit parks and check the mail.</p>
 		<p>&#128205; And lots lots more!!!</p>
 
 	<hr />
