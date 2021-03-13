@@ -2,14 +2,6 @@
 	export let bus;
 	export let name;
 	let sunsetPhoto = '/familyPhotoSunset.jpg'
-	var mapboxgl = require('mapbox-gl/dist/mapbox-gl.js');
- 
-	mapboxgl.accessToken = 'pk.eyJ1IjoiZ3JhdmVsbnV0IiwiYSI6ImNqcTl4MHR4cDBuNnI0Mm9ndnNid3k5NGEifQ.gqIxAmIZl8SYmqmoOeltQA';
-	var map = new mapboxgl.Map({
-	container: 'location',
-	style: 'mapbox://styles/mapbox/streets-v11'
-	});
-
 </script>
 
 <main>
@@ -23,8 +15,10 @@
 		<li>New battery (March 2021).</li>
 		<li>Rebuilt brakes (June 2020).</li>
 		<li>New brakes shoes (rear).</li>
-		<li>All new master cylinder and both brake fluid reservoirs.</li>
+		<li>All new master cylinder.</li>
+		<li>Two new brake fluid reservoirs (one in the cab, the other attached to the master cylinder).</li>
 		<li>New spring kit installed rear brakes.</li>
+		<li>New </li>
 		<li>1600cc Dual-port Dual Carb (Baby Webbers).</li>
 		<li>Curtains are origally from an old college buddies 1972 VW Bus.</li>
 		<li>Upholstery is in great condition.</li>
@@ -45,7 +39,9 @@
 	</gallery>
 </main>
 
-<div id='location'></div>
+<div id='location'>
+	<p>Oceanside, California (92058)</p>
+</div>
 
 <footer>
 	<div>
@@ -88,6 +84,9 @@
 	#payment {
 		text-align: right;
 	}
+	 #location {
+		text-align: center;
+	 }
 	footer {
 		background-color: #ff3e00;
 		font-size: 0.75em;
