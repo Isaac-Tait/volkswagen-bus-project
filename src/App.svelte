@@ -36,8 +36,8 @@
 	<div class="row">
 		<img class="column" src="https://volkswagen-forsale-1969.s3-us-west-1.amazonaws.com/torque+wrench.jpg" alt="repairing brakes" />
 		<img class="column" src="https://volkswagen-forsale-1969.s3-us-west-1.amazonaws.com/Master+Cylinder.jpg" alt="New master cylinder" />
-		<img class="column" src="" alt="" />
-		<img class="column" src="" alt="" />
+		<img class="column" src="https://volkswagen-forsale-1969.s3-us-west-1.amazonaws.com/wheel+removed.jpg" alt="" />
+		<img class="column" src="https://volkswagen-forsale-1969.s3-us-west-1.amazonaws.com/Family+Photos+3.jpg" alt="" />
 	</div>
 
 
@@ -149,8 +149,8 @@
 	}
 
 	.row > img:hover {
-		-webkit-transform: scale(3);
-		transform: scale(3);
+		-webkit-transform: scale(2.5);
+		transform: scale(2.5);
 	}
 
 </style>
