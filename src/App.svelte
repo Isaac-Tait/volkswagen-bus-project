@@ -88,7 +88,7 @@
 
 	<h2>If you have any questions, or would like to arrange a viewing, please contact me using the form below.</h2>
 
-	<form name="contact" data-netlify id="contact">
+	<form name="contact" data-netlify="true" id="contact">
 		<p>
 			<label>Name <input type="text" name="name" /></label>
 		</p>
