@@ -130,7 +130,7 @@
 	 }
 
 	 #contact {
-
+		color:#ff3e00;
 	 }
 
 	 .column {
@@ -139,6 +139,7 @@
 		float: left;
 		width: 33.33%;
 		padding: 5px;
+		transition: transform 0.25s ease;
 	}
 
 	.row::after {
@@ -146,4 +147,10 @@
 		clear: both;
 		display: table;
 	}
+
+	.row > img:hover {
+		-webkit-transform: scale(3);
+		transform: scale(3);
+	}
+
 </style>
