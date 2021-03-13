@@ -6,7 +6,7 @@
 </script>
 
 <main>
-	<h1>For Sale: {bus}</h1>
+	<h1>{bus}</h1>
 
 	<img id="splash" src={sunsetPhoto} alt="Family sunset" >
 	
@@ -89,7 +89,7 @@
 
 	<h2>If you have any questions, or would like to arrange a viewing, please contact me using the form below.</h2>
 
-	<form name="Interested Buyer" method="POST" data-netlify="true" netlify>
+	<form name="Interested Buyer" method="POST" data-netlify="true" id="contact">
 		<p>
 			<label>Name <input type="text" name="name" /></label>
 		</p>
@@ -97,7 +97,7 @@
 			<label>Email <input type="email" name="email" /></label>
 		</p>
 		<p>
-			<label>Message <textarea name="message"></textarea></label>
+			<label>Message <textarea name="message">Enter your message here...</textarea></label>
 		</p>
 		<p>
 			<button type="submit">Send</button>
@@ -131,21 +131,21 @@
 		color: #ff3e00;
 		text-transform: uppercase;
 		font-size: 4em;
-		font-weight: 150;
+		font-weight: 400;
 	}
 
 	h2 {
 		color:#ff3e00;
 		text-transform: uppercase;
 		font-size: 3em;
-		font-weight: 90;
+		font-weight: 300;
 	}
 
 	h3 {
 		color: #ff3e00;
 		text-transform: uppercase;
 		font-size: 2em;
-		font-weight: 100;
+		font-weight: 250;
 	}
 
 	footer {
@@ -197,12 +197,13 @@
 
 	 #contact {
 		color:#ff3e00;
+		font-weight: 500;
 	 }
 
 	 #bio {
 		 color:#ff3e00;
 		 text-align: left;
-		 font-weight: 275;
+		 font-weight: 200;
 	 }
 
 	 .column {
