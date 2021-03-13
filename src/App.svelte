@@ -18,7 +18,7 @@
 		<p>When I was younger I spent a wonderful and glorious summer living the "van-life" while I traveled the great American West as a rock climbing guide in California's majestic Sierra Nevada and Utah's incomparable Wasatch Mountains. Donna was waiting for me when I came home from fighting the war on terror in Afghanistan. My wife and I have taken her on some awesome adventures.</p>
 		<p>It is with deep sense of sadness that I have decided that it is best to let Donna move on to a new home. My family is getting ready to move again and bringing Donna with us would be quite difficult and expensive.</p>
 		<p>I do not want to bring her with us just to watch her slowly rust away; a home for weeds, spiders, and mice nests. She deserves better than that. However, there is always a silver lining to every cloud - my lose is <strong>your</strong> gain. Take a look at the photos and if you are interested in scheduling a viewing please contact me using the contact form below.</p>
-		<p>She is a part of the family. Therefore I am firm on the price, and will not let her go to just anyone. I will also require you to sign an agreement granting me first right of refusal if you should decide to sell her down the road.</p>
+		<p>She is a part of the family. Therefore I am firm on the price, and will not let her go to just anyone. I will also require you to sign an agreement granting me first right of refusal if you should decide to sell her in the future.</p>
 	</div>
 	<hr />
 
