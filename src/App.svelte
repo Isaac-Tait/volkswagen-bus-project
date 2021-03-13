@@ -1,6 +1,7 @@
 <script>
 	export let bus;
 	export let name;
+	
 	let sunsetPhoto = '/familyPhotoSunset.jpeg'
 </script>
 
@@ -11,6 +12,17 @@
 	
 	<h3>Asking $15,000.00</h3>
 
+	<hr />
+	<div id="bio">
+		<p>I purchased {name} in 2004 and for many years she was my faithful daily driver.</p>
+		<p>When I was younger I spent a wonderful and glorious summer living the "van-life" while I traveled the great American West as a rock climbing guide in California's majestic Sierra Nevada and Utah's incomparable Wasatch Mountains. Donna was waiting for me when I came home from fighting the war on terror in Afghanistan. My wife and I have taken her on some awesome adventures.</p>
+		<p>It is with deep sense of sadness that I have decided that it is best to let Donna move on to a new home. My family is getting ready to move again and bringing Donna with us would be quite difficult and expensive.</p>
+		<p>I do not want to bring her with us just to watch her slowly rust away; a home for weeds, spiders, and mice nests. She deserves better than that. However, there is always a silver lining to every cloud - my lose is <strong>your</strong> gain. Take a look at the photos and if you are interested in scheduling a viewing please contact me using the contact form below.</p>
+		<p>She is a part of the family. Therefore I am firm on the price, and will not let her go to just anyone. I will also require you to sign an agreement granting me first right of refusal if you should decide to sell her down the road.</p>
+	</div>
+	<hr />
+
+	<h2>Features:</h2>
 	<ul>
 		<li>New battery (March 2021).</li>
 		<li>Rebuilt brakes (June 2020).</li>
@@ -28,18 +40,13 @@
 		<li>Curtains are origally from an old college buddies 1972 VW Bus.</li>
 		<li>Upholstery is in great condition.</li>
 		<li>Comes with a loaded toolbox, timing light, and a slew of miscelaneous parts and pieces...</li>
-		<li>I kept very detailed logs of repairs and driving mileage up until Donna went into storage. You can download the spreadsheat <a href="https://volkswagen-forsale-1969.s3-us-west-1.amazonaws.com/prof/Donna+Log.ods" target="_blank" rel="noopener noreferrer">here</a></li>
+		<li>I kept very detailed logs of repairs and driving mileage up until Donna went into storage. You can download the spreadsheat <a href="https://volkswagen-forsale-1969.s3-us-west-1.amazonaws.com/prof/Donna+Log.ods" target="_blank" rel="noopener noreferrer">here</a>.</li>
 		<li>And lots lots more!!!</li>
 	</ul>
 
-	<div id="payment">
-		<p>Serious inquiries only. Will not consider trades.</p>
-		<p>Prefer payment in Bitcoin. Payment via bank transfer is also acceptable.</p>
-	</div>
-
 	<hr />
-
-	<p>Below is a collection of photos of {name} spanning the years that she was a part of our family. From the deserts of western Utah to the backroads of California and beyond...</p>
+	
+	<p>The adventures of {name} - from the deserts of western Utah to the backroads of California and beyond...</p>
 	<div class="row">
 		<img class="column" src="https://volkswagen-forsale-1969.s3-us-west-1.amazonaws.com/Donna+in+the+Mountains.jpg" alt="" />
 		<img class="column" src="https://volkswagen-forsale-1969.s3-us-west-1.amazonaws.com/Artwork+Highway.jpg" alt="" />
@@ -96,6 +103,11 @@
 		</p>
 	</form>
 </main>
+
+<div id="payment">
+	<p>Serious inquiries only. Will not consider trades.</p>
+	<p>Prefer payment in Bitcoin. Payment via bank transfer is also acceptable.</p>
+</div>
 
 <footer>
 	<div>
@@ -156,6 +168,7 @@
 
 	#payment {
 		font-style: italic;
+		text-align: center;
 	}
 	 #location {
 		text-align: center;
@@ -163,6 +176,11 @@
 
 	 #contact {
 		color:#ff3e00;
+	 }
+
+	 #bio {
+		 color:#ff3e00;
+		 text-align: left;
 	 }
 
 	 .column {
