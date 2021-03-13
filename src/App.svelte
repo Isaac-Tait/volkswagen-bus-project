@@ -88,7 +88,7 @@
 
 	<h2>If you have any questions, or would like to arrange a viewing, please contact me using the form below.</h2>
 
-	<form name="contact" data-netlify="true" id="contact">
+	<form name="Interested Buyer" method="POST" data-netlify="true" netlify>
 		<p>
 			<label>Name <input type="text" name="name" /></label>
 		</p>
