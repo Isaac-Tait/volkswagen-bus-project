@@ -42,12 +42,12 @@
 
 
 	<div id='location'>
-		<p>Donna currently resides in Oceanside, California</p>
+		<p>Donna currently resides in the warm and sunny beach city of Oceanside, California</p>
 	</div>
 
 	<hr />
 
-	<h2>If you have any questions please contact me using the form below.</h2>
+	<h2>If you have any questions, or would like to arrange a viewing, please contact me using the form below.</h2>
 
 	<form name="contact" data-netlify id="contact">
 		<p>
