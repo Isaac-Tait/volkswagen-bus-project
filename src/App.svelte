@@ -7,18 +7,18 @@
 <main>
 	<h1>For Sale: {bus}</h1>
 
-	<img src={sunsetPhoto} alt="Family sunset" >
+	<img id="splash" src={sunsetPhoto} alt="Family sunset" >
 	
 	<h3>Asking $15,000.00</h3>
 
 	<ul>
 		<li>New battery (March 2021).</li>
 		<li>Rebuilt brakes (June 2020).</li>
-		<li>New brakes shoes (rear).</li>
+		<li>New rear drum brakes shoes.</li>
 		<li>All new master cylinder.</li>
 		<li>Two new brake fluid reservoirs (one in the cab, the other attached to the master cylinder).</li>
 		<li>New spring kit installed rear brakes.</li>
-		<li>New </li>
+		<li>New rear brake calipers</li>
 		<li>1600cc Dual-port Dual Carb (Baby Webbers).</li>
 		<li>Curtains are origally from an old college buddies 1972 VW Bus.</li>
 		<li>Upholstery is in great condition.</li>
@@ -27,21 +27,43 @@
 
 	<div id="payment">
 		<p>Serious inquiries only. Will not consider trades.</p>
-		<p>Prefer payment in Bitcoin. Secondary bank transfer.</p>
+		<p>Prefer payment in Bitcoin. Payment via bank transfer is also acceptable.</p>
 	</div>
 
-	<p>Below are a collection of photos of {name} </p>
-	<gallery>
-		<img src="" alt="" />
-		<img src="" alt="" />
-		<img src="" alt="" />
-		<img src="" alt="" />
-	</gallery>
-</main>
+	<hr />
 
-<div id='location'>
-	<p>Oceanside, California (92058)</p>
-</div>
+	<p>Below are a collection of photos of {name} </p>
+	<div class="row">
+		<img class="column" src="https://volkswagen-forsale-1969.s3-us-west-1.amazonaws.com/torque+wrench.jpg" alt="repairing brakes" />
+		<img class="column" src="https://volkswagen-forsale-1969.s3-us-west-1.amazonaws.com/Master+Cylinder.jpg" alt="New master cylinder" />
+		<img class="column" src="" alt="" />
+		<img class="column" src="" alt="" />
+	</div>
+
+
+	<div id='location'>
+		<p>Donna currently resides in Oceanside, California</p>
+	</div>
+
+	<hr />
+
+	<h2>If you have any questions please contact me using the form below.</h2>
+
+	<form name="contact" data-netlify id="contact">
+		<p>
+			<label>Name <input type="text" name="name" /></label>
+		</p>
+		<p>
+			<label>Email <input type="email" name="email" /></label>
+		</p>
+		<p>
+			<label>Message <textarea name="message"></textarea></label>
+		</p>
+		<p>
+			<button type="submit">Send</button>
+		</p>
+	</form>
+</main>
 
 <footer>
 	<div>
@@ -63,7 +85,14 @@
 		color: #ff3e00;
 		text-transform: uppercase;
 		font-size: 4em;
-		font-weight: 100;
+		font-weight: 150;
+	}
+
+	h2 {
+		color:#ff3e00;
+		text-transform: uppercase;
+		font-size: 2em;
+		font-weight: 90;
 	}
 
 	h3 {
@@ -73,20 +102,10 @@
 		font-weight: 100;
 	}
 
-	img {
-		max-width: 750px;
-		border-radius: 50px;
+	ul {
+		text-align: center;
 	}
 
-	ul {
-		text-align: left;
-	}
-	#payment {
-		text-align: right;
-	}
-	 #location {
-		text-align: center;
-	 }
 	footer {
 		background-color: #ff3e00;
 		font-size: 0.75em;
@@ -96,5 +115,35 @@
 		main {
 			max-width: none;
 		}
+	}
+
+	#splash {
+		max-width: 750px;
+		border-radius: 50px;
+	}
+
+	#payment {
+		font-style: italic;
+	}
+	 #location {
+		text-align: center;
+	 }
+
+	 #contact {
+
+	 }
+
+	 .column {
+		max-width: 250px;
+		border-radius: 20px;
+		float: left;
+		width: 33.33%;
+		padding: 5px;
+	}
+
+	.row::after {
+		content: "";
+		clear: both;
+		display: table;
 	}
 </style>
