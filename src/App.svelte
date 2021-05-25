@@ -10,20 +10,20 @@
 
 	<img id="splash" src={sunsetPhoto} alt="Family sunset" >
 	
-	<h2>Asking $15,000.00</h2>
+	<h2>Asking <del>$15,000</del> $12,000 o.b.o.</h2>
 
 	<hr />
 	<div id="bio">
 		<p>I purchased {name} in 2004 and for many years she was my faithful daily driver.</p>
-		<p>When I was younger I spent a wonderful and glorious summer living the "van-life" while I traveled the great American West as a rock climbing guide in California's majestic Sierra Nevada and Utah's incomparable Wasatch Mountains. Donna was waiting for me when I came home from fighting the war on terror in Afghanistan. My wife and I have taken her on some awesome adventures.</p>
+		<p>During our younger years I spent a wonderful and glorious summer living the "van-life" while I traveled the great American West as a rock climbing guide in California's majestic Sierra Nevada and Utah's incomparable Wasatch Mountains. Donna was waiting for me when I came home from fighting the war on terror in Afghanistan. My wife and I have taken her on some awesome adventures.</p>
 		<p>It is with deep sense of sadness that I have decided that it is best to let Donna move on to a new home. My family is getting ready to move again and bringing Donna with us would be quite difficult and expensive.</p>
 		<p>I do not want to bring her with us just to watch her slowly rust away; a home for weeds, spiders, and mice nests. She deserves better than that. However, there is always a silver lining to every cloud - my lose is <strong>your</strong> gain. Take a look at the photos and if you are interested in scheduling a viewing please contact me using the contact form below.</p>
-		<p>She is a part of the family. Therefore I am firm on the price, and will not let her go to just anyone. I will also require you to sign an agreement granting me first right of refusal if you should decide to sell her in the future.</p>
 	</div>
 	<hr />
 
-	<h3>Features:</h3>
+	<h3>The Good:</h3>
 		<p>&#128205; New battery (March 2021).</p>
+		<p>&#128205; Rebuilt and cleaned carbs (November 2019).</p>
 		<p>&#128205; Rebuilt brakes (June 2020).</p>
 		<p>&#128205; New rear drum brakes shoes.</p>
 		<p>&#128205; New master cylinder..</p>
@@ -31,8 +31,7 @@
 		<p>&#128205; New spring kit installed on the rear brakes.</p>
 		<p>&#128205; New rear brake calipers</p>
 		<p>&#128205; Window rubber replaced in 2013 (still looking good as she was in storage with a car cover), metal work also completed to repair rust in the window well areas.</p>
-		<p>&#128205; Runs strong.</p>
-		<p>&#128205; Lights work but it is time to upgrade the sound system.</p>
+		<p>&#128205; Engine runs strong (recent compression test returned 100-120 all four cylinders).</p>
 		<p>&#128205; Engine compartment hatch has a lock with VW logo key.</p>
 		<p>&#128205; Comes with an ingenious hammock that installs above the driver and passenger seats. Perfect for storing luggage out of the way at night or even a bed for a small child or two.</p>
 		<p>&#128205; 1600cc Dual-port Dual Carb (Baby Webbers).</p>
@@ -41,7 +40,15 @@
 		<p>&#128205; Comes with a loaded toolbox, timing light, and a slew of miscelaneous parts and pieces...</p>
 		<p>&#128205; I kept very detailed logs of repairs and driving mileage up until Donna went into storage. You can download the spreadsheat <a href="https://volkswagen-forsale-1969.s3-us-west-1.amazonaws.com/prof/Donna+Log.ods" target="_blank" rel="noopener noreferrer">here</a>.</p>
 		<p>&#128205; Currently I drive her once or twice a week around the neighborhood to visit parks and check the mail.</p>
-		<p>&#128205; And lots lots more!!!</p>
+	<h3>The Bad:</h3>
+		<p>&#128205; Lights work but it is time to upgrade the sound system.</p>
+		<p>&#128205; In the interest of full disclosure and honesty the bus runs and drives but has a persistent stalling issue.</p>
+	<h3>The Ugly:</h3>
+		<p>&#128205; The transmission needs to be rebuilt <a href="https://www.mofoco.com/item/Rebuilt_Transmission_VW_Bus_Type_2_1968_1970_Models_Only/2971/c112" target="_blank" rel="noopener noreferrer">mofoco</a> offers a like new rebuild for $1,000 (after $200 core rebate).
+		<p>&#128205; The tires need to be replaced, one is a trailer tire and two are from the 90's...</p>
+		
+		<h4>Due to the aforementioned issues I have reduced the price $3,000.00</h4>
+		
 
 	<hr />
 	
@@ -108,7 +115,7 @@
 
 <div id="payment">
 	<p>Serious inquiries only. Will not consider trades.</p>
-	<p>Prefer payment in Bitcoin. Payment via bank transfer is also acceptable.</p>
+	<p>Include your phone number in the message if you would prefer to talk over the phone.</p>
 </div>
 
 <footer>
