@@ -48,9 +48,26 @@
 		<p>&#128205; The tires need to be replaced, one is a trailer tire and two are from the 90's...</p>
 		
 		<h4>Due to the aforementioned issues I have reduced the price $3,000.00</h4>
-		
 
 	<hr />
+
+	<h2>If you have any questions, or would like to arrange a viewing, please contact me using the form below.</h2>
+
+	<form name="Interested Buyer" method="POST" data-netlify="true" id="contact">
+	<input type="hidden" name="form-name" value="Interested Buyer" />
+		<p>
+			<label>Name <input type="text" name="name" /></label>
+		</p>
+		<p>
+			<label>Email <input type="email" name="email" /></label>
+		</p>
+		<p>
+			<label>Message <textarea name="message">Enter your message here...</textarea></label>
+		</p>
+		<p>
+			<button type="submit">Send</button>
+		</p>
+	</form>
 	
 	<p>The adventures of {name} - from the deserts of western Utah to the backroads of California and beyond...</p>
 	<div class="row">
@@ -89,28 +106,7 @@
 	<div id='location'>
 		<p>Donna currently resides in the warm and sunny beach city of Oceanside, California</p>
 		<p>To see more photos, check out this Google Photos Album <a href="https://photos.app.goo.gl/K1UwA9PaWYJw2ef97" target="_blank" rel="noopener">here</a>.</p>
-
 	</div>
-
-	<hr />
-
-	<h2>If you have any questions, or would like to arrange a viewing, please contact me using the form below.</h2>
-
-	<form name="Interested Buyer" method="POST" data-netlify="true" id="contact">
-	<input type="hidden" name="form-name" value="Interested Buyer" />
-		<p>
-			<label>Name <input type="text" name="name" /></label>
-		</p>
-		<p>
-			<label>Email <input type="email" name="email" /></label>
-		</p>
-		<p>
-			<label>Message <textarea name="message">Enter your message here...</textarea></label>
-		</p>
-		<p>
-			<button type="submit">Send</button>
-		</p>
-	</form>
 </main>
 
 <div id="payment">
