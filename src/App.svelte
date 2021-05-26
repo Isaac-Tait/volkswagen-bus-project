@@ -41,11 +41,11 @@
 		<p>&#128205; I kept very detailed logs of repairs and driving mileage up until Donna went into storage. You can download the spreadsheat <a href="https://volkswagen-forsale-1969.s3-us-west-1.amazonaws.com/prof/Donna+Log.ods" target="_blank" rel="noopener noreferrer">here</a>.</p>
 		<p>&#128205; Currently I drive her once or twice a week around the neighborhood to visit parks and check the mail.</p>
 	<h3>The Not So Good:</h3>
-		<p>&#128205; Lights work but it is time to upgrade the sound system.</p>
-		<p>&#128205; In the interest of full disclosure and honesty the bus runs and drives but has a persistent stalling issue.</p>
+		<p>&#128205; Lights work but it is time to upgrade the electrical system.</p>
+		<p>&#128205; Donna runs but she has a persistent as of yet undiagnosed stalling issue.</p>
 		<p>&#128205; The tires need to be replaced, one is a trailer tire and two are from the 90's...</p>
 		
-		<h4>Due to the aforementioned issues I have reduced the price significantly</h4>
+		<h4>Due to the aforementioned issues I have reduced the price significantly. The asking price is firm. I am not willing to come down any further.</h4>
 
 	<hr />
 
