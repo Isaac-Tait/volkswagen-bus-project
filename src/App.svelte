@@ -66,6 +66,10 @@
 			<button type="submit">Send</button>
 		</p>
 	</form>
+
+	<p>All fields are <strong>required</strong>. A valid email is also required (no spam I promise). If you would like a return phone call please leave your number in the message.</p>
+
+	<hr />
 	
 	<p>The adventures of {name} - from the deserts of western Utah to the backroads of California and beyond...</p>
 	<div class="row">
