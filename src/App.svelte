@@ -10,7 +10,7 @@
 
 	<img id="splash" src={sunsetPhoto} alt="Family sunset" >
 	
-	<h2>Asking <del>$15,000</del> $10,500 firm</h2>
+	<h2>Asking <del>$10,500</del> SOLD!</h2>
 
 	<hr />
 	<div id="bio">
